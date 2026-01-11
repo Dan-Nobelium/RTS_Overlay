@@ -1,0 +1,23 @@
+{
+    "name": "CastleRushUnique",
+    "civilization": "Generic",
+    "author": "",
+    "source": "",
+    "description": "Castle rush build order targeting unique unit production",
+    "build_order": [
+        {
+            "age": 1,
+            "villager_count": 0,
+            "resources": {
+                "wood": 0,
+                "food": 0,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "Build order content will be added here"
+            ]
+        }
+    ]
+}
+
