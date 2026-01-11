@@ -1,0 +1,194 @@
+{
+    "name": "Khitan Hoofbeat 3",
+    "civilization": "Any",
+    "author": "Tower",
+    "source": "Overqualification",
+    "description": "Khitan horses, with spare food to ensure vil production",
+    "build_order": [
+        {
+            "villager_count": 7,
+            "age": 1,
+            "resources": {
+                "wood": 0,
+                "food": 7,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "→@other/House_aoe2DE.png@@other/House_aoe2DE.png@",
+                "7 - @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 11,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 7,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "4 - @lumber_camp/Lumber_camp_aoe2de.png@",
+                "@animal/Sheep_aoe2DE.png@ ⇆ @animal/Boar_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 22,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 16,
+                "gold": 2,
+                "stone": 0
+            },
+            "notes": [
+                "4 @resource/Aoe2de_hammer.png@ → @other/House_aoe2DE.png@@mill/Mill_aoe2de.png@ @resource/BerryBushDE.png@",
+                "5 - @animal/Boar_aoe2DE.png@",
+                "2 - @resource/Aoe2de_gold.png@",
+                ">@age/FeudalAgeIconDE_alpha.png@ @town_center/LoomDE.png@"
+            ]
+        },
+        {
+            "villager_count": 22,
+            "age": 1,
+            "resources": {
+                "wood": 7,
+                "food": 11,
+                "gold": 2,
+                "stone": 0,
+                "builder": 2
+            },
+            "notes": [
+                "@animal/Boar_aoe2DE.png@ → @lumber_camp/Lumber_camp_aoe2de.png@",
+                "½ @age/FeudalAgeIconDE_alpha.png@",
+                "2 @resource/Aoe2de_wood.png@ → @barracks/Barracks_aoe2DE.png@ @other/House_aoe2DE.png@ @stable/Stable_aoe2DE.png@ @blacksmith/Blacksmith_aoe2de.png@",
+                "@defensive_structures/Palisade_wall_aoe2de.png@ ← @resource/Aoe2de_hammer.png@ → @defensive_structures/Palisade_wall_aoe2de.png@"
+            ]
+        },
+        {
+            "villager_count": 30,
+            "age": 2,
+            "resources": {
+                "wood": 9,
+                "food": 19,
+                "gold": 2,
+                "stone": 0
+            },
+            "notes": [
+                ">@lumber_camp/DoubleBitAxe_aoe2DE.png@ @mill/Domestication.png@",
+                "3 ~ @stable/Scoutcavalry_aoe2DE.png@",
+                "2 ~ @barracks/Spearman_aoe2DE.png@",
+                "8 - @mill/Pasture.png@"
+            ]
+        },
+        {
+            "villager_count": 31,
+            "age": 2,
+            "resources": {
+                "wood": 9,
+                "food": 14,
+                "gold": 6,
+                "stone": 0,
+                "builder": 1
+            },
+            "notes": [
+                "→@other/House_aoe2DE.png@@other/House_aoe2DE.png@ @blacksmith/Blacksmith_aoe2de.png@",
+                ">@blacksmith/Forging_aoe2de.png@",
+                "@resource/BerryBushDE.png@ → @resource/Aoe2de_gold.png@"
+            ]
+        },
+        {
+            "villager_count": 43,
+            "age": 2,
+            "resources": {
+                "wood": 10,
+                "food": 22,
+                "gold": 6,
+                "stone": 4
+            },
+            "notes": [
+                "8 - @mill/Pasture.png@",
+                "4 - @resource/Aoe2de_stone.png@",
+                ">@age/CastleAgeIconDE_alpha.png@"
+            ]
+        },
+        {
+            "villager_count": 43,
+            "age": 2,
+            "resources": {
+                "wood": 9,
+                "food": 22,
+                "gold": 6,
+                "stone": 4,
+                "builder": 1
+            },
+            "notes": [
+                ">@mining_camp/GoldMiningDE.png@ @mining_camp/StoneMiningDE.png@",
+                "1 @resource/Aoe2de_wood.png@ → @barracks/Barracks_aoe2DE.png@ @archery_range/Archery_range_aoe2DE.png@ (@barracks/Spearman_aoe2DE.png@ @archery_range/Skirmisher_aoe2DE.png@)",
+                "⬆ @monastery/MonasteryAoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 51,
+            "age": 3,
+            "resources": {
+                "wood": 10,
+                "food": 30,
+                "gold": 6,
+                "stone": 4
+            },
+            "notes": [
+                ">@mill/Pastoralism.png@ @lumber_camp/BowSawDE.png@ @town_center/HandcartDE.png@",
+                "→ @town_center/Towncenter_aoe2DE.png@ @town_center/Towncenter_aoe2DE.png@",
+                "8 - @mill/Pasture.png@"
+            ]
+        },
+        {
+            "villager_count": 51,
+            "age": 3,
+            "resources": {
+                "wood": 10,
+                "food": 30,
+                "gold": 6,
+                "stone": 4
+            },
+            "notes": [
+                "→ @siege_workshop/Siege_workshop_aoe2DE.png@ @siege_workshop/Rocket_Cart.png@",
+                ">@barracks/PikemanUpDE.png@ @barracks/SquiresDE.png@ @barracks/ArsonDE.png@",
+                ">@blacksmith/IronCastingDE.png@ @blacksmith/ScaleMailArmorDE.png@ @blacksmith/ChainMailArmorDE.png@"
+            ]
+        },
+        {
+            "villager_count": 51,
+            "age": 3,
+            "resources": {
+                "wood": 10,
+                "food": 30,
+                "gold": 6,
+                "stone": 4
+            },
+            "notes": [
+                "→ @castle/Castle_aoe2DE.png@ @castle/CastleAgeUnique.png@ @unique_unit/Liao_Dao.png@",
+                "5 ~ @barracks/Barracks_aoe2DE.png@ 2 ~ @siege_workshop/Siege_workshop_aoe2DE.png@",
+                "@defensive_structures/Palisade_wall_aoe2de.png@ ← @resource/Aoe2de_hammer.png@ → @defensive_structures/Palisade_wall_aoe2de.png@"
+            ]
+        },
+        {
+            "villager_count": 51,
+            "age": 4,
+            "resources": {
+                "wood": 10,
+                "food": 30,
+                "gold": 6,
+                "stone": 4
+            },
+            "notes": [
+                ">@age/ImperialAgeIconDE_alpha.png@",
+                ">@mill/Transhumance.png@",
+                "5 ~ @stable/Stable_aoe2DE.png@ @stable/Hussar_aoe2DE.png@ @castle/Unique-tech-imperial.jpg@",
+                ">@university/ChemistryDE.png@ @university/SiegeEngineersDE.png@ @unique_unit/Mounted_Trebuchet.png@"
+            ]
+        }
+    ]
+}

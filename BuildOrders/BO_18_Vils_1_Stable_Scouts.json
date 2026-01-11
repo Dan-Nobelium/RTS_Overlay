@@ -1,0 +1,129 @@
+{
+    "name": "18 Vils 1 Stable Scouts",
+    "civilization": "Any",
+    "author": "Hera",
+    "source": "https://buildorderguide.com",
+    "description": "Go up quickly and starting pressure w/ Scouts\nUs mobility and first to attack\nTech Switch into skirms & scouts",
+    "build_order": [
+        {
+            "villager_count": 6,
+            "age": 1,
+            "resources": {
+                "wood": 0,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 @other/House_aoe2DE.png@ + 6 on @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 8,
+            "age": 1,
+            "resources": {
+                "wood": 2,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 on @resource/Aoe2de_wood.png@",
+                "Lure @animal/Boar_aoe2DE.png@ With @resource/MaleVillDE.jpg@ Under @town_center/Towncenter_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 9,
+            "age": 1,
+            "resources": {
+                "wood": 2,
+                "food": 7,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 Lures @animal/Boar_aoe2DE.png@",
+                "@other/House_aoe2DE.png@",
+                "@mill/Mill_aoe2de.png@"
+            ]
+        },
+        {
+            "villager_count": 10,
+            "age": 1,
+            "resources": {
+                "wood": 2,
+                "food": 8,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 on @resource/BerryBushDE.png@",
+                "[Recommended] Lure @animal/Deer_aoe2DE.png@ with your @stable/Scoutcavalry_aoe2DE.png@ once you found all your @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 16,
+            "age": 1,
+            "resources": {
+                "wood": 2,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 Lures @animal/Boar_aoe2DE.png@ + 5 More on @animal/Boar_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 18,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 on @resource/Aoe2de_wood.png@",
+                "Research @town_center/LoomDE.png@",
+                "Research 19 Pop @age/FeudalAgeIconDE_alpha.png@"
+            ]
+        },
+        {
+            "villager_count": 22,
+            "age": 2,
+            "resources": {
+                "wood": 8,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "Before @age/FeudalAgeIconDE_alpha.png@",
+                "4 on @resource/Aoe2de_wood.png@",
+                "4 @animal/Sheep_aoe2DE.png@ \u2192 4 @resource/BerryBushDE.png@"
+            ]
+        },
+        {
+            "villager_count": 22,
+            "age": 2,
+            "resources": {
+                "wood": 8,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "In @age/FeudalAgeIconDE_alpha.png@",
+                "Move 1 vil from under @town_center/Towncenter_aoe2DE.png@ to make a @barracks/Barracks_aoe2DE.png@ 60v% of the way to feudal 8",
+                "@resource/Aoe2de_hammer.png@ @stable/Stable_aoe2DE.png@ with 2 Vils",
+                "Research @lumber_camp/DoubleBitAxe_aoe2DE.png@ + @mill/HorseCollarDE.png@",
+                "Train 3 @stable/Scoutcavalry_aoe2DE.png@",
+                "Use the 2 vils that @resource/Aoe2de_hammer.png@ the @stable/Stable_aoe2DE.png@ to @defensive_structures/Palisade_wall_aoe2de.png@ opposite sides of your base",
+                "Start seeding @mill/FarmDE.png@ as soon as you have extra @resource/Aoe2de_wood.png@ in the bank",
+                "Keep adding @stable/Scoutcavalry_aoe2DE.png@ and use them to attack your opponent or defend",
+                "[Optional] Make 1-4 spears if you are scared of enemy @stable/Scoutcavalry_aoe2DE.png@"
+            ]
+        }
+    ]
+}

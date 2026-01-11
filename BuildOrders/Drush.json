@@ -1,0 +1,120 @@
+{
+    "name": "Drush",
+    "civilization": "Any",
+    "author": "Hera",
+    "source": "https://www.youtube.com/watch?v=R9IFzyYMAjA",
+    "description": "19 Pop Feudal Drush",
+    "build_order": [
+        {
+            "villager_count": 6,
+            "age": 1,
+            "resources": {
+                "wood": 0,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 @other/House_aoe2DE.png@ + 6 on @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 9,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "3 on @resource/Aoe2de_wood.png@"
+            ]
+        },
+        {
+            "villager_count": 10,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 7,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 Lures @animal/Boar_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 11,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 8,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "@other/House_aoe2DE.png@ + 1 Lures @animal/Boar_aoe2DE.png@",
+                "Push 3 @animal/Deer_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 16,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 13,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 Lures @animal/Boar_aoe2DE.png@ + 4 More on @animal/Boar_aoe2DE.png@",
+                "@barracks/Barracks_aoe2DE.png@ + @other/House_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 17,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 13,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 on @resource/Aoe2de_wood.png@",
+                "Research @town_center/LoomDE.png@"
+            ]
+        },
+        {
+            "villager_count": 17,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 13,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "In @age/DarkAgeIconDE_alpha.png@",
+                "Train 2 @barracks/MilitiaDE.png@"
+            ]
+        },
+        {
+            "villager_count": 17,
+            "age": 1,
+            "resources": {
+                "wood": 8,
+                "food": 9,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "4 @animal/Sheep_aoe2DE.png@ \u2192 4 @resource/Aoe2de_wood.png@",
+                "1 @animal/Sheep_aoe2DE.png@ \u2192 1 @resource/BerryBushDE.png@ + @mill/Mill_aoe2de.png@",
+                "Research @lumber_camp/DoubleBitAxe_aoe2DE.png@",
+                "@resource/Aoe2de_hammer.png@ @defensive_structures/Palisade_wall_aoe2de.png@ with two @resource/MaleVillDE.jpg@"
+            ]
+        }
+    ]
+}

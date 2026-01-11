@@ -1,0 +1,121 @@
+{
+    "name": "Double Scout",
+    "civilization": "Any",
+    "author": "hera",
+    "source": "hera strategy guide",
+    "description": "The objective of this build is to open with a standard scout rush but then surprise our opponents by continuing to spam scouts, and\n even adding a 2nd stable, and in some cases a 3rd.\n \u02c6\n \u02c6\n \u02c6\n \u02c6\n The idea is that we rush to the strongest possible feudal age unit, which is the bloodlines scout with blacksmith upgrades.\n With 2 stables we can get enough scouts on the field to defend enemy aggression and keep him open (in most cases).\n Once we get to fully upgraded scouts we can easily take out any unit in feudal age besides mass spearmen, but for those we try to\n run around them or pick them off one by one\n The goal is to get major damage done in feudal age, and then finish off our opponent with a heavy followup once we hit castle age",
+    "build_order": [
+        {
+            "villager_count": 6,
+            "age": 1,
+            "resources": {
+                "wood": 0,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 @other/House_aoe2DE.png@ + 6 on @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 8,
+            "age": 1,
+            "resources": {
+                "wood": 2,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 on @resource/Aoe2de_wood.png@"
+            ]
+        },
+        {
+            "villager_count": 9,
+            "age": 1,
+            "resources": {
+                "wood": 2,
+                "food": 7,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 Lures @animal/Boar_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 10,
+            "age": 1,
+            "resources": {
+                "wood": 2,
+                "food": 8,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "@other/House_aoe2DE.png@ + @mill/Mill_aoe2de.png@ + 1 on @resource/BerryBushDE.png@",
+                "Push undefined @animal/Deer_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 16,
+            "age": 1,
+            "resources": {
+                "wood": 2,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "6 on @resource/Aoe2de_food.png@ Under @town_center/Towncenter_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 18,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 on @resource/Aoe2de_wood.png@",
+                "Research @town_center/LoomDE.png@",
+                "Research 19 Pop @age/FeudalAgeIconDE_alpha.png@"
+            ]
+        },
+        {
+            "villager_count": 18,
+            "age": 2,
+            "resources": {
+                "wood": 9,
+                "food": 9,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "Before @age/FeudalAgeIconDE_alpha.png@",
+                "5 @animal/Sheep_aoe2DE.png@ \u2192 5 @resource/Aoe2de_wood.png@ + @lumber_camp/Lumber_camp_aoe2de.png@",
+                "4 @resource/Aoe2de_food.png@ Under @town_center/Towncenter_aoe2DE.png@ \u2192 4 @resource/BerryBushDE.png@",
+                "@barracks/Barracks_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 18,
+            "age": 2,
+            "resources": {
+                "wood": 9,
+                "food": 9,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "In @age/FeudalAgeIconDE_alpha.png@",
+                "@stable/Stable_aoe2DE.png@",
+                "Research @lumber_camp/DoubleBitAxe_aoe2DE.png@ + @mill/HorseCollarDE.png@"
+            ]
+        }
+    ]
+}

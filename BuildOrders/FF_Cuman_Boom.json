@@ -1,0 +1,229 @@
+{
+    "name": "FF Cuman Boom",
+    "civilization": "Cumans",
+    "author": "Hera",
+    "source": "https://buildorderguide.com",
+    "description": "A unique build for the cumans",
+    "build_order": [
+        {
+            "villager_count": 6,
+            "age": 1,
+            "resources": {
+                "wood": 0,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 @other/House_aoe2DE.png@ + 6 on @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 9,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "@lumber_camp/Lumber_camp_aoe2de.png@ + 3 on @resource/Aoe2de_wood.png@"
+            ]
+        },
+        {
+            "villager_count": 10,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 7,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 Lures @animal/Boar_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 11,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 8,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "@other/House_aoe2DE.png@ + @mill/Mill_aoe2de.png@ + 1 on @resource/BerryBushDE.png@"
+            ]
+        },
+        {
+            "villager_count": 12,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 9,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 on @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 13,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 10,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 Lures @animal/Boar_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 16,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 13,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "3 on @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 19,
+            "age": 1,
+            "resources": {
+                "wood": 3,
+                "food": 16,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "@other/House_aoe2DE.png@ + 3 on @resource/BerryBushDE.png@",
+                "Research @town_center/LoomDE.png@",
+                "Research 20 Pop @age/FeudalAgeIconDE_alpha.png@"
+            ]
+        },
+        {
+            "villager_count": 19,
+            "age": 2,
+            "resources": {
+                "wood": 5,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "Before @age/FeudalAgeIconDE_alpha.png@",
+                "2 @animal/Boar_aoe2DE.png@ \u2192 2 @resource/Aoe2de_wood.png@",
+                "Seed 3 @mill/FarmDE.png@",
+                "2 @other/House_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 19,
+            "age": 2,
+            "resources": {
+                "wood": 5,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "In @age/FeudalAgeIconDE_alpha.png@",
+                "@resource/Aoe2de_hammer.png@ new @town_center/Towncenter_aoe2DE.png@ with 2 @animal/Sheep_aoe2DE.png@ and 4 @resource/Aoe2de_wood.png@ vils.",
+                "Research @lumber_camp/DoubleBitAxe_aoe2DE.png@ + @mill/HorseCollarDE.png@"
+            ]
+        },
+        {
+            "villager_count": 27,
+            "age": 2,
+            "resources": {
+                "wood": 13,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "8 on @resource/Aoe2de_wood.png@"
+            ]
+        },
+        {
+            "villager_count": 31,
+            "age": 2,
+            "resources": {
+                "wood": 13,
+                "food": 18,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "4 on @mill/FarmDE.png@"
+            ]
+        },
+        {
+            "villager_count": 39,
+            "age": 2,
+            "resources": {
+                "wood": 13,
+                "food": 18,
+                "gold": 8,
+                "stone": 0
+            },
+            "notes": [
+                "8 on @resource/Aoe2de_gold.png@"
+            ]
+        },
+        {
+            "villager_count": 43,
+            "age": 2,
+            "resources": {
+                "wood": 13,
+                "food": 18,
+                "gold": 8,
+                "stone": 4
+            },
+            "notes": [
+                "4 on @resource/Aoe2de_stone.png@",
+                "@barracks/Barracks_aoe2DE.png@ + @blacksmith/Blacksmith_aoe2de.png@ + @stable/Stable_aoe2DE.png@",
+                "Research @town_center/WheelbarrowDE.png@",
+                "Research @age/CastleAgeIconDE_alpha.png@"
+            ]
+        },
+        {
+            "villager_count": 45,
+            "age": 3,
+            "resources": {
+                "wood": 13,
+                "food": 18,
+                "gold": 8,
+                "stone": 6
+            },
+            "notes": [
+                "Before @age/CastleAgeIconDE_alpha.png@",
+                "2 on @resource/Aoe2de_stone.png@"
+            ]
+        },
+        {
+            "villager_count": 45,
+            "age": 3,
+            "resources": {
+                "wood": 13,
+                "food": 18,
+                "gold": 8,
+                "stone": 6
+            },
+            "notes": [
+                "In @age/CastleAgeIconDE_alpha.png@",
+                "Drop @castle/Castle_aoe2DE.png@ or @resource/Aoe2de_hammer.png@ @stable/Knight_aoe2DE.png@ or drop more TCs"
+            ]
+        }
+    ]
+}

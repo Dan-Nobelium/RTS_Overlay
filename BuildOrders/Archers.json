@@ -1,0 +1,217 @@
+{
+    "name": "Archers",
+    "civilization": "Any",
+    "author": "Hera",
+    "source": "https://www.reddit.com/r/aoe2/comments/juuw7y/hera_build_order_straight_archers_with_new/",
+    "description": "Going for archers in Feudal Age is one of the easiest builds, yet it\u2019s very powerful. This build gets you to two ranges working faster than Cicero's Archers build with only 22 pop before clicking up to Feudal but delays Horse Collar in return. When reaching the Castle Age you can go for 2 TCs or a university and fast ballistics.",
+    "build_order": [
+        {
+            "villager_count": 6,
+            "age": 1,
+            "resources": {
+                "wood": 0,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 @other/House_aoe2DE.png@ + 6 on @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 10,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 6,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "4 on @resource/Aoe2de_wood.png@"
+            ]
+        },
+        {
+            "villager_count": 11,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 7,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 Lures @animal/Boar_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 14,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 10,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 @other/House_aoe2DE.png@ + @mill/Mill_aoe2de.png@ + 3 on @resource/BerryBushDE.png@"
+            ]
+        },
+        {
+            "villager_count": 15,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 11,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 Lures @animal/Boar_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 16,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 12,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "1 on @resource/BerryBushDE.png@"
+            ]
+        },
+        {
+            "villager_count": 18,
+            "age": 1,
+            "resources": {
+                "wood": 4,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "2 on @animal/Sheep_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 21,
+            "age": 1,
+            "resources": {
+                "wood": 7,
+                "food": 14,
+                "gold": 0,
+                "stone": 0
+            },
+            "notes": [
+                "3 on @resource/Aoe2de_wood.png@",
+                "Research @town_center/LoomDE.png@",
+                "Research 22 Pop @age/FeudalAgeIconDE_alpha.png@"
+            ]
+        },
+        {
+            "villager_count": 21,
+            "age": 2,
+            "resources": {
+                "wood": 10,
+                "food": 8,
+                "gold": 3,
+                "stone": 0
+            },
+            "notes": [
+                "Before @age/FeudalAgeIconDE_alpha.png@",
+                "3 @animal/Sheep_aoe2DE.png@ \u2192 3 @resource/Aoe2de_wood.png@",
+                "3 @animal/Sheep_aoe2DE.png@ \u2192 3 @resource/Aoe2de_gold.png@",
+                "@barracks/Barracks_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 21,
+            "age": 2,
+            "resources": {
+                "wood": 10,
+                "food": 8,
+                "gold": 3,
+                "stone": 0
+            },
+            "notes": [
+                "In @age/FeudalAgeIconDE_alpha.png@",
+                "Research @lumber_camp/DoubleBitAxe_aoe2DE.png@"
+            ]
+        },
+        {
+            "villager_count": 25,
+            "age": 2,
+            "resources": {
+                "wood": 10,
+                "food": 8,
+                "gold": 7,
+                "stone": 0
+            },
+            "notes": [
+                "2 @archery_range/Archery_range_aoe2DE.png@ + 4 on @resource/Aoe2de_gold.png@",
+                "Start Training @archery_range/Archer_aoe2DE.png@",
+                "@blacksmith/Blacksmith_aoe2de.png@",
+                "Research @blacksmith/FletchingDE.png@"
+            ]
+        },
+        {
+            "villager_count": 35,
+            "age": 2,
+            "resources": {
+                "wood": 10,
+                "food": 18,
+                "gold": 7,
+                "stone": 0
+            },
+            "notes": [
+                "10 on @mill/FarmDE.png@"
+            ]
+        },
+        {
+            "villager_count": 36,
+            "age": 2,
+            "resources": {
+                "wood": 10,
+                "food": 18,
+                "gold": 8,
+                "stone": 0
+            },
+            "notes": [
+                "1 on @resource/Aoe2de_gold.png@",
+                "Research @town_center/WheelbarrowDE.png@",
+                "Research @age/CastleAgeIconDE_alpha.png@"
+            ]
+        },
+        {
+            "villager_count": 36,
+            "age": 3,
+            "resources": {
+                "wood": 10,
+                "food": 18,
+                "gold": 8,
+                "stone": 0
+            },
+            "notes": [
+                "Before @age/CastleAgeIconDE_alpha.png@",
+                "Research @mill/HorseCollarDE.png@ + @blacksmith/PaddedArcherArmorDE.png@ + @mining_camp/GoldMiningDE.png@"
+            ]
+        },
+        {
+            "villager_count": 36,
+            "age": 3,
+            "resources": {
+                "wood": 10,
+                "food": 18,
+                "gold": 8,
+                "stone": 0
+            },
+            "notes": [
+                "In @age/CastleAgeIconDE_alpha.png@",
+                "Research @archery_range/Crossbowman_aoe2DE.png@ + @blacksmith/BodkinArrowDE.png@ + @lumber_camp/BowSawDE.png@"
+            ]
+        }
+    ]
+}

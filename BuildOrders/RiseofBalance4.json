@@ -1,0 +1,156 @@
+{
+    "name": "RiseofBalance4",
+    "civilization": "Generic",
+    "author": "Tower",
+    "source": "Original, inspired by buildorderguide.com",
+    "description": "An attempt at a balanced build with waves of aggression",
+    "build_order": [
+        {
+            "age": 1,
+            "villager_count": 19,
+            "resources": {
+                "wood": 4,
+                "food": 14,
+                "gold": 1,
+                "stone": 0
+            },
+            "notes": [
+                "6 - @animal/Sheep_aoe2DE.png@₆",
+                "4 - @lumber_camp/Lumber_camp_aoe2de.png@₄",
+                "1 - @animal/Boar_aoe2DE.png@₇",
+                "3 - @other/House_aoe2DE.png@@mill/Mill_aoe2de.png@ @resource/BerryBushDE.png@₃",
+                "1 - @animal/Sheep_aoe2DE.png@₈",
+                "1 - @other/House_aoe2DE.png@@barracks/Barracks_aoe2DE.png@ → @resource/Aoe2de_gold.png@₁",
+                "3 - @animal/Sheep_aoe2DE.png@₁₁",
+                "@town_center/LoomDE.png@@age/FeudalAgeIconDE_alpha.png@",
+                "@barracks/MilitiaDE.png@₃"
+            ]
+        },
+        {
+            "age": 2,
+            "villager_count": 19,
+            "resources": {
+                "wood": 12,
+                "food": 5,
+                "gold": 2,
+                "stone": 0
+            },
+            "notes": [
+                "2@animal/Sheep_aoe2DE.png@₉ → @resource/BerryBushDE.png@₅",
+                "2@animal/Sheep_aoe2DE.png@₇ → @resource/Aoe2de_wood.png@₆",
+                "1@animal/Sheep_aoe2DE.png@₆ → @resource/Aoe2de_gold.png@₂",
+                "6@animal/Sheep_aoe2DE.png@₀ → @animal/Deer_aoe2DE.png@ → @lumber_camp/Lumber_camp_aoe2de.png@₁₂",
+                "5@resource/BerryBushDE.png@₀ → @mill/FarmDE.png@₅"
+            ]
+        },
+        {
+            "age": 2,
+            "villager_count": 34,
+            "resources": {
+                "wood": 12,
+                "food": 20,
+                "gold": 2,
+                "stone": 0
+            },
+            "notes": [
+                "2@resource/BerryBushDE.png@ → @other/House_aoe2DE.png@@blacksmith/Blacksmith_aoe2de.png@@archery_range/Archery_range_aoe2DE.png@@market/Market_aoe2DE.png@@defensive_structures/Palisade_wall_aoe2de.png@ → @resource/BerryBushDE.png@",
+                "@barracks/ManAtArmsUpgDE.png@@blacksmith/ScaleMailArmorDE.png@@lumber_camp/DoubleBitAxe_aoe2DE.png@",
+                "@mill/HorseCollarDE.png@@blacksmith/Forging_aoe2de.png@",
+                "15 - @mill/FarmDE.png@₂₀"
+            ]
+        },
+        {
+            "age": 2,
+            "villager_count": -1,
+            "resources": {
+                "wood": -1,
+                "food": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "@age/CastleAgeIconDE_alpha.png@@mining_camp/GoldMiningDE.png@@town_center/WheelbarrowDE.png@",
+                "@town_center/HandcartDE.png@@lumber_camp/BowSawDE.png@@mill/HeavyPlowDE.png@",
+                "@barracks/LongSwordmanUpgDE.png@@blacksmith/ChainMailArmorDE.png@@blacksmith/IronCastingDE.png@@barracks/SquiresDE.png@"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": -1,
+            "resources": {
+                "wood": -1,
+                "food": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "@siege_workshop/Siege_workshop_aoe2DE.png@@siege_workshop/Siege_workshop_aoe2DE.png@",
+                "@monastery/MonasteryAoe2DE.png@@university/University_AoE2_DE.png@",
+                "@university/BallisticsDE.png@",
+                "@siege_workshop/Battering_ram_aoe2DE.png@₂ @siege_workshop/Scorpion_aoe2DE.png@₁₀ @monastery/Monk_aoe2DE.png@₂"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": -1,
+            "resources": {
+                "wood": -1,
+                "food": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "8 - @town_center/Towncenter_aoe2DE.png@ @mill/FarmDE.png@₂₈",
+                "8 - @lumber_camp/Lumber_camp_aoe2de.png@₂₄",
+                "8 - @mining_camp/Mining_camp_aoe2de.png@ @resource/Aoe2de_stone.png@₈",
+                "8 - @town_center/Towncenter_aoe2DE.png@ @mill/FarmDE.png@₃₆"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": -1,
+            "resources": {
+                "wood": -1,
+                "food": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "@castle/Castle_aoe2DE.png@@mining_camp/Mining_camp_aoe2de.png@@resource/Aoe2de_stone.png@",
+                "@defensive_structures/Gate_aoe2de.png@@defensive_structures/Gate_aoe2de.png@ @stable/Stable_aoe2DE.png@@siege_workshop/Siege_workshop_aoe2DE.png@ @barracks/Barracks_aoe2DE.png@@barracks/Barracks_aoe2DE.png@@barracks/Barracks_aoe2DE.png@",
+                "@siege_workshop/Scorpion_aoe2DE.png@ → ⛋",
+                "@monastery/HerbalDE.png@ → ⛋"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": -1,
+            "resources": {
+                "wood": -1,
+                "food": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "@castle/CastleAgeUnique.png@@unique_unit/Centurion-DE.png@",
+                "@blacksmith/ScaleBardingArmorDE.png@ @blacksmith/ChainBardingDE.png@@stable/BloodlinesDE.png@@stable/HusbandryDE.png@",
+                "@town_center/Towncenter_aoe2DE.png@@castle/Castle_aoe2DE.png@@mining_camp/Mining_camp_aoe2de.png@@mining_camp/Mining_camp_aoe2de.png@"
+            ]
+        },
+        {
+            "age": 4,
+            "villager_count": -1,
+            "resources": {
+                "wood": -1,
+                "food": -1,
+                "gold": -1,
+                "stone": -1
+            },
+            "notes": [
+                "@age/ImperialAgeIconDE_alpha.png@",
+                "@university/SiegeEngineersDE.png@ @university/ChemistryDE.png@",
+                "@mill/CropRotationDE.png@"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "name": "RiseofRawrm10",
+    "civilization": "Generic",
+    "author": "Tower",
+    "source": "https://buildorderguide.com",
+    "description": ".",
+    "build_order": [
+        {
+            "age": 1,
+            "villager_count": 21,
+            "resources": {
+                "wood": 6,
+                "food": 13,
+                "gold": 2,
+                "stone": 0
+            },
+            "notes": [
+                "6 - @animal/Sheep_aoe2DE.png@₆",
+                "4 - @lumber_camp/Lumber_camp_aoe2de.png@ @other/House_aoe2DE.png@₄",
+                "2 - @animal/Boar_aoe2DE.png@₈",
+                "5 - @mill/Mill_aoe2de.png@ @resource/BerryBushDE.png@₅",
+                "2 - @resource/Aoe2de_wood.png@₆",
+                "2 - @mining_camp/Mining_camp_aoe2de.png@ @resource/Aoe2de_gold.png@₂"
+            ]
+        },
+        {
+            "age": 1,
+            "villager_count": 21,
+            "resources": {
+                "wood": 12,
+                "food": 7,
+                "gold": 2,
+                "stone": 0
+            },
+            "notes": [
+                "2@animal/Sheep_aoe2DE.png@₆ → @resource/tree.png@ → @other/House_aoe2DE.png@@other/House_aoe2DE.png@@defensive_structures/Palisade_wall_aoe2de.png@ → @mill/FarmDE.png@₂",
+                "6@animal/Sheep_aoe2DE.png@₀ → @animal/Deer_aoe2DE.png@ → @lumber_camp/Lumber_camp_aoe2de.png@₁₂",
+                "@age/FeudalAgeIconDE_alpha.png@₂₁"
+            ]
+        },
+        {
+            "age": 2,
+            "villager_count": 26,
+            "resources": {
+                "wood": 12,
+                "food": 7,
+                "gold": 7,
+                "stone": 0
+            },
+            "notes": [
+                "@market/Market_aoe2DE.png@@blacksmith/Blacksmith_aoe2de.png@",
+                "5 - @resource/Aoe2de_gold.png@₇",
+                "@age/CastleAgeIconDE_alpha.png@@town_center/LoomDE.png@",
+                "@lumber_camp/DoubleBitAxe_aoe2DE.png@@mill/HorseCollarDE.png@@mining_camp/GoldMiningDE.png@",
+                "5@resource/BerryBushDE.png@₀ → @mill/FarmDE.png@₇"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": 26,
+            "resources": {
+                "wood": 12,
+                "food": 7,
+                "gold": 5,
+                "stone": 0,
+                "builder": 2
+            },
+            "notes": [
+                "@siege_workshop/Siege_workshop_aoe2DE.png@@siege_workshop/Siege_workshop_aoe2DE.png@",
+                "@lumber_camp/BowSawDE.png@@mill/HeavyPlowDE.png@",
+                "@siege_workshop/Battering_ram_aoe2DE.png@₂ @siege_workshop/Scorpion_aoe2DE.png@₁₀",
+                "2@resource/Aoe2de_gold.png@₅ → @siege_workshop/Battering_ram_aoe2DE.png@ → @resource/Aoe2de_hammer.png@₂"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": 46,
+            "resources": {
+                "wood": 18,
+                "food": 15,
+                "gold": 5,
+                "stone": 6,
+                "builder": 2
+            },
+            "notes": [
+                "@resource/FEMALEVILLDE.jpg@ ≥ 30",
+                "@town_center/WheelbarrowDE.png@@town_center/HandcartDE.png@",
+                "8 - @town_center/Towncenter_aoe2DE.png@ @mill/FarmDE.png@₁₅",
+                "6 - @lumber_camp/Lumber_camp_aoe2de.png@₁₈",
+                "6 - @mining_camp/Mining_camp_aoe2de.png@ @resource/Aoe2de_stone.png@₆"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": 62,
+            "resources": {
+                "wood": 18,
+                "food": 23,
+                "gold": 13,
+                "stone": 6,
+                "builder": 2
+            },
+            "notes": [
+                "@university/University_AoE2_DE.png@@monastery/MonasteryAoe2DE.png@",
+                "@university/BallisticsDE.png@@monastery/Monk_aoe2DE.png@",
+                "8 - @town_center/Towncenter_aoe2DE.png@ @mill/FarmDE.png@₂₃",
+                "8 - @mining_camp/Mining_camp_aoe2de.png@ @resource/Aoe2de_gold.png@₁₃"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": 62,
+            "resources": {
+                "wood": 18,
+                "food": 23,
+                "gold": 13,
+                "stone": 6,
+                "builder": 2
+            },
+            "notes": [
+                "@castle/Castle_aoe2DE.png@ @mining_camp/Mining_camp_aoe2de.png@ @resource/Aoe2de_stone.png@",
+                "@barracks/Barracks_aoe2DE.png@@other/House_aoe2DE.png@@other/House_aoe2DE.png@@stable/Stable_aoe2DE.png@",
+                "@blacksmith/FletchingDE.png@ @blacksmith/BodkinArrowDE.png@",
+                "@castle/CastleAgeUnique.png@@unique_unit/Centurion-DE.png@"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": 76,
+            "resources": {
+                "wood": 18,
+                "food": 30,
+                "gold": 20,
+                "stone": 6,
+                "builder": 2
+            },
+            "notes": [
+                "7 - @town_center/Towncenter_aoe2DE.png@ @mill/FarmDE.png@₃₀",
+                "7 - @resource/Aoe2de_gold.png@₂₀",
+                "@blacksmith/ScaleBardingArmorDE.png@ @blacksmith/ChainBardingDE.png@@blacksmith/Forging_aoe2de.png@ @blacksmith/IronCastingDE.png@",
+                "@stable/BloodlinesDE.png@@stable/HusbandryDE.png@",
+                "@castle/Castle_aoe2DE.png@@unique_unit/Centurion-DE.png@@unique_unit/Centurion-DE.png@"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": 102,
+            "resources": {
+                "wood": 18,
+                "food": 46,
+                "gold": 30,
+                "stone": 6,
+                "builder": 2
+            },
+            "notes": [
+                "8 - @town_center/Towncenter_aoe2DE.png@ @mill/FarmDE.png@₃₈",
+                "10 - @resource/Aoe2de_gold.png@₃₀",
+                "8 - @mill/Mill_aoe2de.png@ @mill/FarmDE.png@₄₆",
+                "> @siege_workshop/Scorpion_aoe2DE.png@@siege_workshop/Scorpion_aoe2DE.png@ @unique_unit/Centurion-DE.png@@unique_unit/Centurion-DE.png@ @barracks/Longswordsman_aoe2DE.png@@barracks/Longswordsman_aoe2DE.png@@barracks/Aoe2-infantry-2-pikeman.png@"
+            ]
+        },
+        {
+            "age": 3,
+            "villager_count": 102,
+            "resources": {
+                "wood": 18,
+                "food": 46,
+                "gold": 30,
+                "stone": 6,
+                "builder": 2
+            },
+            "notes": [
+                "@blacksmith/ScaleMailArmorDE.png@ @barracks/ManAtArmsUpgDE.png@@barracks/SquiresDE.png@@barracks/PikemanUpDE.png@",
+                "@barracks/Barracks_aoe2DE.png@₄",
+                "@barracks/LongSwordmanUpgDE.png@@blacksmith/ChainMailArmorDE.png@"
+            ]
+        },
+        {
+            "age": 4,
+            "villager_count": 102,
+            "resources": {
+                "wood": 18,
+                "food": 46,
+                "gold": 30,
+                "stone": 6,
+                "builder": 2
+            },
+            "notes": [
+                "@age/ImperialAgeIconDE_alpha.png@",
+                "@university/SiegeEngineersDE.png@ @university/ChemistryDE.png@",
+                "@mill/CropRotationDE.png@"
+            ]
+        }
+    ]
+}
