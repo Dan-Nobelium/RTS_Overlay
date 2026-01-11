@@ -15,7 +15,7 @@
                 "stone": 0
             },
             "notes": [
-                "Create 6 @resource/MaleVillDE.jpg@ on @animal/Sheep_aoe2DE.png@"
+                "6 - @animal/Sheep_aoe2DE.png@₆"
             ]
         },
         {
@@ -28,7 +28,7 @@
                 "stone": 0
             },
             "notes": [
-                "Create 3 @resource/MaleVillDE.jpg@ on @resource/Aoe2de_wood.png@"
+                "3 - @resource/Aoe2de_wood.png@₃"
             ]
         },
         {
@@ -41,7 +41,7 @@
                 "stone": 0
             },
             "notes": [
-                "Create 1 @resource/MaleVillDE.jpg@ on @animal/Boar_aoe2DE.png@"
+                "1 - @animal/Boar_aoe2DE.png@₇"
             ]
         },
         {
@@ -54,8 +54,7 @@
                 "stone": 0
             },
             "notes": [
-                "Create 1 @resource/MaleVillDE.jpg@ on @resource/BerryBushDE.png@",
-                "If you can lure @animal/Deer_aoe2DE.png@ under tc, do. If not, keep going"
+                "1 - @resource/BerryBushDE.png@₈"
             ]
         },
         {
@@ -68,8 +67,7 @@
                 "stone": 0
             },
             "notes": [
-                "Create 2 @resource/MaleVillDE.jpg@ on @animal/Sheep_aoe2DE.png@",
-                "Lure undefined @animal/Boar_aoe2DE.png@"
+                "2 - @animal/Sheep_aoe2DE.png@₁₀"
             ]
         },
         {
@@ -82,8 +80,8 @@
                 "stone": 0
             },
             "notes": [
-                "Create 4 @resource/MaleVillDE.jpg@ on @resource/BerryBushDE.png@",
-                "Move 3 hunters to @mill/FarmDE.png@"
+                "4 - @resource/BerryBushDE.png@₅",
+                "3@animal/Sheep_aoe2DE.png@₅ → @mill/FarmDE.png@₃"
             ]
         },
         {
@@ -96,7 +94,7 @@
                 "stone": 0
             },
             "notes": [
-                "Create 5 @resource/MaleVillDE.jpg@ on @resource/Aoe2de_wood.png@"
+                "5 - @resource/Aoe2de_wood.png@₈"
             ]
         },
         {
@@ -109,8 +107,8 @@
                 "stone": 0
             },
             "notes": [
-                "Create 2 @resource/MaleVillDE.jpg@ on @resource/Aoe2de_gold.png@",
-                "Click up to feudalAge"
+                "2 - @resource/Aoe2de_gold.png@₂",
+                "@age/FeudalAgeIconDE_alpha.png@"
             ]
         },
         {
@@ -123,10 +121,8 @@
                 "stone": 4
             },
             "notes": [
-                "Before @age/FeudalAgeIconDE_alpha.png@",
-                "Move 4 @resource/MaleVillDE.jpg@ from @animal/Sheep_aoe2DE.png@ to @resource/Aoe2de_stone.png@",
-                "Move 3 @resource/MaleVillDE.jpg@ from @animal/Sheep_aoe2DE.png@ to @resource/Aoe2de_wood.png@",
-                "@resource/Aoe2de_wood.png@ close to @town_center/Towncenter_aoe2DE.png@"
+                "4@animal/Sheep_aoe2DE.png@₁₀ → @resource/Aoe2de_stone.png@₄",
+                "3@animal/Sheep_aoe2DE.png@₇ → @resource/Aoe2de_wood.png@₁₁"
             ]
         },
         {
@@ -139,8 +135,7 @@
                 "stone": 4
             },
             "notes": [
-                "In @age/FeudalAgeIconDE_alpha.png@",
-                "Take @resource/MaleVillDE.jpg@ from trees close to TC: 1 to blacksmith, 2 to market, then @other/House_aoe2DE.png@"
+                "3@resource/Aoe2de_wood.png@₈ → @other/House_aoe2DE.png@@blacksmith/Blacksmith_aoe2de.png@@market/Market_aoe2DE.png@ → @resource/Aoe2de_wood.png@"
             ]
         },
         {
@@ -153,8 +148,8 @@
                 "stone": 6
             },
             "notes": [
-                "Create 2 @resource/MaleVillDE.jpg@ on @resource/Aoe2de_stone.png@",
-                "Click up to castleAge"
+                "2 - @resource/Aoe2de_stone.png@₆",
+                "@age/CastleAgeIconDE_alpha.png@"
             ]
         },
         {
@@ -167,8 +162,7 @@
                 "stone": 6
             },
             "notes": [
-                "Before @age/CastleAgeIconDE_alpha.png@",
-                "Research doubleBitAxe, horseCollar"
+                "@lumber_camp/DoubleBitAxe_aoe2DE.png@@mill/HorseCollarDE.png@"
             ]
         },
         {
@@ -181,10 +175,8 @@
                 "stone": 6
             },
             "notes": [
-                "In @age/CastleAgeIconDE_alpha.png@",
-                "@resource/Aoe2de_hammer.png@ 1 @castle/Castle_aoe2DE.png@",
-                "Research bowSaw",
-                "When @resource/BerryBushDE.png@ @resource/MaleVillDE.jpg@ go idle, send them to whatever resource we need"
+                "@lumber_camp/BowSawDE.png@",
+                "@resource/Aoe2de_hammer.png@ @castle/Castle_aoe2DE.png@"
             ]
         }
     ]
